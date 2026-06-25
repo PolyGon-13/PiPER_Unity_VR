@@ -5,7 +5,7 @@ Meta Quest 3S를 활용해 PiPER 로봇을 Unity 환경에서 제어하는 프�
 ---
 
 ## 🎥 Demo
-[![Demo 영상](https://img.shields.io/badge/Demo_Video-View-grey?logo=playstation5)](./DEMO.md)
+[![Demo 영상](https://img.shields.io/badge/Demo-grey?logo=playstation5)](./PiPER_Control/)
 
 ---
 
@@ -36,7 +36,6 @@ Meta Quest 3S를 활용해 PiPER 로봇을 Unity 환경에서 제어하는 프�
    ```bash
    pip3 install piper_sdk
    python3 piper_move.py
-   
 2. **PC (Window 11, Meta Quets 3S)**
    - VR - PC 연결
    - Unity 프로젝트 실행
@@ -44,4 +43,4 @@ Meta Quest 3S를 활용해 PiPER 로봇을 Unity 환경에서 제어하는 프�
 ---
 
 ## 📚 Reference
-- [Agilex Robotics Piper SDK](https://github.com/agilexrobotics/piper_sdk)
+[![GitHub](https://img.shields.io/badge/Agilex_Robotics_Piper_SDK-181717?logo=github&logoColor=white)](https://github.com/agilexrobotics/piper_sdk)
